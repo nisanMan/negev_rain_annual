@@ -33,9 +33,9 @@ especially in the upper corner. This pattern suggests a discernible decline in r
 3. Matplotlib
 4. Seaborn
 
-## Requirements
 
-- Python 3.x
+
+
 
 ## IMG of the Tableau (power  BI abandoned due to permission issues):
 <img src="power BI 1.png" alt="Alt Text" width="300">
