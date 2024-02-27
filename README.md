@@ -28,10 +28,9 @@ especially in the upper corner. This pattern suggests a discernible decline in r
 
 ## Libraries
 
-1. OpenCV
-2. NumPy
-3. Matplotlib
-4. Seaborn
+1. NumPy
+2. Matplotlib
+3. Seaborn
 
 
 
